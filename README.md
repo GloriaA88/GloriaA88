@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GloriaA88
 - 👀 I’m interested in ... Web Design / Front End
-- 🌱 I’m currently learning ... Front End
+- 🌱 I’m currently learning ... Front End: Javascript, CSS, HTML5.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... She / Her
