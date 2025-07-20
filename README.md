@@ -11,7 +11,7 @@ I studied the following codes:<br>
 
 I decided to take this path because I like the fact to use logic and specific instructions together with creativity to create impressive and responsive designs 🖼️.
 
-#Check what I can create to see I'm perfect for you! ✨​
+#Check what I can create to see if I'm perfect for you! ✨​
 -------------------------
 <a href="https://github.com/GloriaA88?tab=repositories">
 <img width="200" height="48" alt="Find_me_on_Linkedin__1_-removebg-preview (1)" src="https://github.com/user-attachments/assets/c4f8253e-e270-4882-ae7d-fa445ace3ab0" />
