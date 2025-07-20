@@ -17,7 +17,7 @@ I decided to take this path because I like the fact to use logic and specific in
 <img width="200" height="48" alt="Find_me_on_Linkedin__1_-removebg-preview (1)" src="https://github.com/user-attachments/assets/c4f8253e-e270-4882-ae7d-fa445ace3ab0" />
 </a>
 
-🤝🏻 #Connect with me!​
+#Connect with me! 🤝🏻​
 -------------------------
 <a href="https://www.linkedin.com/in/gloria-aiello/">
 <img width="200" height="49" alt="Find_me_on_Linkedin-removebg-preview (2)" src="https://github.com/user-attachments/assets/67a5105f-e24c-4929-9b59-fdc7bf3f0674" />
